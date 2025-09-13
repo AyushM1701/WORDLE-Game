@@ -16,3 +16,5 @@ This Wordle clone includes all the standard rules of the original game, plus sev
 ✨ Smooth Animations: Includes satisfying animations for letter reveals (flip), invalid guesses (shake), and new letter entries (pop).
 
 🔔 In-Game Notifications: Get clear feedback with non-intrusive notifications for invalid words, wins, and losses.
+
+## TO PLAY - https://wordle-clone-final.netlify.app
